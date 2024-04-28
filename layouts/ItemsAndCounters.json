@@ -1,0 +1,119 @@
+﻿{
+        "ItemsAndCounters": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Weapons",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "weapons"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Keepsakes",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "Keepsakes"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Pacts",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "Pacts"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Gifts",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "Gifts"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Sword Rooms",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "swordcount"
+                            }
+                        },                        
+                        {
+                            "type": "group",
+                            "header": "Bow Rooms",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "bowcount"
+                            }
+                        },                        
+                        {
+                            "type": "group",
+                            "header": "Spear Rooms",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "spearcount"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [                       
+                        {
+                            "type": "group",
+                            "header": "Shield Rooms",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "shieldcount"
+                            }
+                        },                        
+                        {
+                            "type": "group",
+                            "header": "Fist Rooms",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "fistcount"
+                            }
+                        },                        
+                        {
+                            "type": "group",
+                            "header": "Gun Rooms",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "guncount"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }

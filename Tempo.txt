@@ -1,0 +1,112 @@
+{
+        "name": "ReqHardLaborPactLevel",
+        "type": "consumable",
+        "max_quantity": 5,
+        "img": "images/pact/HardLabor.png",
+        "codes": "ReqHardLaborPactLevel"
+    },
+    {
+        "name": "ReqLasting Consequences",
+        "type": "consumable",
+        "max_quantity": 4,
+        "img": "images/pact/LastingConsequences.png",
+        "codes": "ReqLastingConsequencesPactLevel"
+    },
+    {
+        "name": "ReqConvenience Fee",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/ConvenienceFee.png",
+        "codes": "ReqConvenienceFeePactLevel"
+    },
+    {
+        "name": "ReqJury Summons",
+        "type": "consumable",
+        "initial_quantity": 3,
+        "img": "images/pact/JurySummons.png",
+        "codes": "ReqJurySummonsPactLevel"
+    },
+    {
+        "name": "ReqExtreme Measures",
+        "type": "consumable",
+        "max_quantity": 4,
+        "img": "images/pact/ExtremeMeasures.png",
+        "codes": "ReqExtremeMeasuresPactLevel"
+    },
+    {
+        "name": "ReqCalisthenics Program",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/CalisthenicsProgram.png",
+        "codes": "ReqCalisthenicsProgramPactLevel"
+    },
+    {
+        "name": "ReqBenefits Package",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/BenefitsPackage.png",
+        "codes": "ReqBenefitsPackagePactLevel"
+    },
+    {
+        "name": "ReqMiddle Management",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/MiddleManagement.png",
+        "codes": "ReqMiddleManagementPactLevel"
+    },
+    {
+        "name": "ReqUnderworld Customs",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/UnderworldCustoms.png",
+        "codes": "ReqUnderworldCustomsPactLevel"
+    },
+    {
+        "name": "ReqForced Overtime",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/ForcedOvertime.png",
+        "codes": "ReqForcedOvertimePactLevel"
+    },
+    {
+        "name": "ReqHeightened Security",
+        "type": "consumable",
+        "max_quantity": 1,
+        "img": "images/pact/HeightenedSecurity.png",
+        "codes": "ReqHeightenedSecurityPactLevel"
+    },
+    {
+        "name": "ReqRoutine Inspection",
+        "type": "consumable",
+        "max_quantity": 4,
+        "img": "images/pact/RoutineInspection.png",
+        "codes": "ReqRoutineInspectionPactLevel"
+    },
+    {
+        "name": "ReqDamage Control",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/DamageControl.png",
+        "codes": "ReqDamageControlPactLevel"
+    },
+    {
+        "name": "ReqApproval Process",
+        "type": "consumable",
+        "max_quantity": 2,
+        "img": "images/pact/ApprovalProcess.png",
+        "codes": "ReqApprovalProcessPactLevel"
+    },
+    {
+        "name": "ReqTight Deadline",
+        "type": "consumable",
+        "max_quantity": 3,
+        "img": "images/pact/TightDeadline.png",
+        "codes": "ReqTightDeadlinePactLevel"
+    },
+    {
+        "name": "ReqPersonal Liability",
+        "type": "consumable",
+        "max_quantity": 1,
+        "img": "images/pact/PersonalLiability.png",
+        "codes": "ReqPersonalLiabilityPactLevel"
+    }

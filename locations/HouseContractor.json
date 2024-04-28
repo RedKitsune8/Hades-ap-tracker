@@ -1,0 +1,137 @@
+
+[
+    {
+        "name": "HouseContractor",
+        "children": [
+            {
+                "name": "Store",
+                "access_rules": [""],
+                "sections": [
+                    {
+						"name": "SwordWeaponUnlockLocation",
+						"item_count": 1
+					},
+					{
+						"name": "BowWeaponUnlockLocation",
+						"item_count": 1
+					},
+					{
+						"name": "SpearWeaponUnlockLocation",
+						"item_count": 1
+					},
+					{
+						"name": "ShieldWeaponUnlockLocation",
+						"item_count": 1
+					},
+					{
+						"name": "FistWeaponUnlockLocation",
+						"item_count": 1
+					},
+					{
+						"name": "GunWeaponUnlockLocation",
+						"item_count": 1
+					},
+					{
+						"name": "FountainUpgrade1Location",
+						"item_count": 1
+					},
+					{
+						"name": "FountainUpgrade2Location",
+						"item_count": 1
+					},
+					{
+						"name": "FountainTartarusLocation",
+						"item_count": 1
+					},
+					{
+						"name": "FountainAsphodelLocation",
+						"item_count": 1
+					},
+					{
+						"name": "FountainElysiumLocation",
+						"item_count": 1
+					},
+					{
+						"name": "UrnsOfWealth1Location",
+						"item_count": 1
+					},
+					{
+						"name": "UrnsOfWealth2Location",
+						"item_count": 1
+					},
+					{
+						"name": "UrnsOfWealth3Location",
+						"item_count": 1
+					},
+					{
+						"name": "InfernalThrove1Location",
+						"item_count": 1
+					},
+					{
+						"name": "InfernalThrove2Location",
+						"item_count": 1
+					},
+					{
+						"name": "InfernalThrove3Location",
+						"item_count": 1
+					},
+					{
+						"name": "KeepsakeCollectionLocation",
+						"item_count": 1
+					},
+					{
+						"name": "DeluxeContractorDeskLocation",
+						"item_count": 1
+					},
+					{
+						"name": "VanquishersKeepLocation",
+						"item_count": 1
+					},
+					{
+						"name": "FishingRodLocation",
+						"item_count": 1
+					},
+					{
+						"name": "CourtMusicianSentenceLocation",
+						"item_count": 1
+					},
+					{
+						"name": "CourtMusicianStandLocation",
+						"item_count": 1
+					},
+					{
+						"name": "PitchBlackDarknessLocation",
+						"item_count": 1
+					},
+					{
+						"name": "FatedKeysLocation",
+						"item_count": 1
+					},
+					{
+						"name": "BrilliantGemstonesLocation",
+						"item_count": 1
+					},
+					{
+						"name": "VintageNectarLocation",
+						"item_count": 1
+					},
+					{
+						"name": "DarkerThirstLocation",
+						"item_count": 1
+					},
+					{
+						"name": "GiftCollectionLocation",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Store",
+                        "x": 200,
+                        "y": 200
+                    }
+                ]
+            }        
+        ]
+    }
+]

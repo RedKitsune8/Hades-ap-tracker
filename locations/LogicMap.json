@@ -1,0 +1,76 @@
+
+[
+    {
+        "name": "Logic Access",
+        "children": [
+            {
+                "name": "Tartarus",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Furies",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LogicMap",
+                        "x": 50,
+                        "y": 160
+                    }
+                ]
+            },
+            {
+                "name": "Asphodel",
+                "access_rules": ["$checkAsphodel"],
+                "sections": [
+                    {
+                        "name": "Hydra",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LogicMap",
+                        "x": 50,
+                        "y": 120
+                    }
+                ]
+            },
+            {
+                "name": "Elysium",
+                "access_rules": ["$checkElysium"],
+                "sections": [
+                    {
+                        "name": "Bros",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LogicMap",
+                        "x": 50,
+                        "y": 80
+                    }
+                ]
+            } ,
+            {
+                "name": "Temple of Styx",
+                "access_rules": ["$checkStyx"],
+                "sections": [
+                    {
+                        "name": "Hades",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "LogicMap",
+                        "x": 50,
+                        "y": 40
+                    }
+                ]
+            }          
+        ]
+    }
+]

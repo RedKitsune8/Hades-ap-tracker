@@ -1,0 +1,519 @@
+{
+    "weapons": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,-5",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "50, 100",
+                        "rows": [
+                            [
+                                "SwordWeaponUnlockItem",
+                                "BowWeaponUnlockItem",
+                                "SpearWeaponUnlockItem",
+                                "ShieldWeaponUnlockItem",
+                                "FistWeaponUnlockItem",
+                                "GunWeaponUnlockItem"           
+                            ],
+                            [
+                                "SwordHiddenAspect",
+                                "BowHiddenAspect",
+                                "SpearHiddenAspect",
+                                "ShieldHiddenAspect",
+                                "FistHiddenAspect",
+                                "GunHiddenAspect"           
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Keepsakes": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": 50,
+                        "rows": [
+                            
+                        [
+                            "ZeusKeepsake",
+                            "PoseidonKeepsake",
+                            "AthenaKeepsake",
+                            "ArtemisKeepsake",
+                            "AphroditeKeepsake",
+                            "AresKeepsake"
+                        ],
+                        [
+                            "DionysusKeepsake",
+                            "HermesKeepsake",
+                            "DemeterKeepsake",
+                            "ChaosKeepsake",
+                            "NyxKeepsake",
+                            "AchillesKeepsake"
+                        ],
+                        [
+                            "CerberusKeepsake",
+                            "CharonKeepsake", 
+                            "HypnosKeepsake",
+                            "MegaeraKeepsake",
+                            "DusaKeepsake",
+                            "SkellyKeepsake"
+                        ],
+                        [
+                            "SisyphusKeepsake",
+                            "EurydiceKeepsake",
+                            "ThanatosKeepsake",
+                            "PatroclusKeepsake",
+                            "OrpheusKeepsake"
+                        ]
+                    ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Pacts": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": 50,
+                        "rows": [
+                            [
+                                "HardLaborPactLevel",
+                                "LastingConsequencesPactLevel",
+                                "ConvenienceFeePactLevel", 
+                                "JurySummonsPactLevel",
+                                "ExtremeMeasuresPactLevel",
+                                "CalisthenicsProgramPactLevel"
+                            ],
+                            [
+                                "BenefitsPackagePactLevel",
+                                "MiddleManagementPactLevel",
+                                "UnderworldCustomsPactLevel",
+                                "ForcedOvertimePactLevel", 
+                                "HeightenedSecurityPactLevel",
+                                "RoutineInspectionPactLevel"
+                            ],
+                            [
+                                "DamageControlPactLevel", 
+                                "ApprovalProcessPactLevel",
+                                "TightDeadlinePactLevel", 
+                                "PersonalLiabilityPactLevel"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gifts": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0, 0,-60,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": 50,
+                        "rows": [
+                            [
+                                "ZeusGift",
+                                "PoseidonGift",
+                                "AthenaGift",
+                                "ArtemisGift",
+                                "AphroditeGift",
+                                "AresGift"
+                            ],
+                            [
+                                "DionysusGift",
+                                "HermesGift",
+                                "DemeterGift",
+                                "ChaosGift",
+                                "NyxGift", 
+                                "AchillesGift"
+                            ],
+                            [
+                                "CerberusGift",
+                                "CharonGift",
+                                "HypnosGift",
+                                "MegaeraGift",
+                                "DusaGift",                                
+                                "SkellyGift"
+                            ],
+                            [
+                                "SisyphusGift",
+                                "EurydiceGift",
+                                "ThanatosGift",
+                                "PatroclusGift",
+                                "OrpheusGift"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Store": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "-10,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "50, 50",
+                        "rows": [
+                            [
+                                "FountainTartarusItem",
+                                "FountainAsphodelItem",
+                                "FountainElysiumItem"  
+                            ],
+                            [
+                                "FountainUpgrade1Item",
+                                "FountainUpgrade2Item",
+                                "DeluxeContractorDeskItem"      
+                            ],
+                            [
+                                "UrnsOfWealth1Item",
+                                "UrnsOfWealth2Item",
+                                "UrnsOfWealth3Item"
+                            ],                          
+                            [
+                                "InfernalThrove1Item",
+                                "InfernalThrove2Item",
+                                "InfernalThrove3Item"
+                            ],                          
+                            [
+                                "VanquishersKeepItem",
+                                "FatedKeysItem",
+                                "BrilliantGemstonesItem"
+                            ],                       
+                            [
+                                "VintageNectarItem",
+                                "DarkerThirstItem",
+                                "KeepsakeCollectionItem"
+                            ],                          
+                            [
+                                "FishingRodItem",
+                                "CourtMusicianSentenceItem",
+                                "CourtMusicianStandItem"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Logic": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "-10,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "RegionTartarus"
+                            ],
+                            [
+                                "RegionAsphodel"     
+                            ],
+                            [
+                                "RegionElysium" 
+                            ],                          
+                            [                              
+                                "RegionStyx"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "swordcount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "TartarusSword"
+                            ],
+                            [
+                                "AsphodelSword"     
+                            ],
+                            [
+                                "ElysiumSword" 
+                            ],                          
+                            [                              
+                                "StyxSword"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bowcount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "TartarusBow"
+                            ],
+                            [
+                                "AsphodelBow"     
+                            ],
+                            [
+                                "ElysiumBow" 
+                            ],                          
+                            [                              
+                                "StyxBow"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "spearcount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "Tartarusspear"
+                            ],
+                            [
+                                "Asphodelspear"     
+                            ],
+                            [
+                                "Elysiumspear" 
+                            ],                          
+                            [                              
+                                "Styxspear"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shieldcount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "Tartarusshield"
+                            ],
+                            [
+                                "Asphodelshield"     
+                            ],
+                            [
+                                "Elysiumshield" 
+                            ],                          
+                            [                              
+                                "Styxshield"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "fistcount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "Tartarusfist"
+                            ],
+                            [
+                                "Asphodelfist"     
+                            ],
+                            [
+                                "Elysiumfist" 
+                            ],                          
+                            [                              
+                                "Styxfist"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "guncount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "Tartarusgun"
+                            ],
+                            [
+                                "Asphodelgun"     
+                            ],
+                            [
+                                "Elysiumgun" 
+                            ],                          
+                            [                              
+                                "Styxgun"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "anycount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,-7",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "TartarusAny"
+                            ],
+                            [
+                                "AsphodelAny"
+                            ],
+                            [
+                                "ElysiumAny"
+                            ],                          
+                            [                              
+                                "StyxAny"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

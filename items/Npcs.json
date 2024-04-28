@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Aphrodite Gift",
+        "type": "toggle",
+        "img": "images/npcs/Aphrodite.png",
+        "codes": "AphroditeGift"
+    },
+    {
+        "name": "Ares Gift",
+        "type": "toggle",
+        "img": "images/npcs/Ares.png",
+        "codes": "AresGift"
+    },
+    {
+        "name": "Artemis Gift",
+        "type": "toggle",
+        "img": "images/npcs/Artemis.png",
+        "codes": "ArtemisGift"
+    },
+    {
+        "name": "Athena Gift",
+        "type": "toggle",
+        "img": "images/npcs/Athena.png",
+        "codes": "AthenaGift"
+    },
+    {
+        "name": "Dionysus Gift",
+        "type": "toggle",
+        "img": "images/npcs/Dionysus.png",
+        "codes": "DionysusGift"
+    },
+    {
+        "name": "Poseidon Gift",
+        "type": "toggle",
+        "img": "images/npcs/Poseidon.png",
+        "codes": "PoseidonGift"
+    },
+    {
+        "name": "Zeus Gift",
+        "type": "toggle",
+        "img": "images/npcs/Zeus.png",
+        "codes": "ZeusGift"
+    },
+    {
+        "name": "Hermes Gift",
+        "type": "toggle",
+        "img": "images/npcs/Hermes.png",
+        "codes": "HermesGift"
+    },
+    {
+        "name": "Demeter Gift",
+        "type": "toggle",
+        "img": "images/npcs/Demeter.png",
+        "codes": "DemeterGift"
+    },
+    {
+        "name": "Chaos Gift",
+        "type": "toggle",
+        "img": "images/npcs/Chaos.png",
+        "codes": "ChaosGift"
+    },
+    {
+        "name": "Cerberus Gift",
+        "type": "toggle",
+        "img": "images/npcs/Cerberus.png",
+        "codes": "CerberusGift"
+    },
+    {
+        "name": "Achilles Gift",
+        "type": "toggle",
+        "img": "images/npcs/Achilles.png",
+        "codes": "AchillesGift"
+    },
+    {
+        "name": "Nyx Gift",
+        "type": "toggle",
+        "img": "images/npcs/Nyx.png",
+        "codes": "NyxGift"
+    },
+    {
+        "name": "Charon Gift",
+        "type": "toggle",
+        "img": "images/npcs/Charon.png",
+        "codes": "CharonGift"
+    },
+    {
+        "name": "Hypnos Gift",
+        "type": "toggle",
+        "img": "images/npcs/Hypnos.png",
+        "codes": "HypnosGift"
+    },
+    {
+        "name": "Megaera Gift",
+        "type": "toggle",
+        "img": "images/npcs/Megaera.png",
+        "codes": "MegaeraGift"
+    },
+    {
+        "name": "Orpheus Gift",
+        "type": "toggle",
+        "img": "images/npcs/Orpheus.png",
+        "codes": "OrpheusGift"
+    },
+    {
+        "name": "Dusa Gift",
+        "type": "toggle",
+        "img": "images/npcs/Dusa.png",
+        "codes": "DusaGift"
+    },
+    {
+        "name": "Skelly Gift",
+        "type": "toggle",
+        "img": "images/npcs/Skelly.png",
+        "codes": "SkellyGift"
+    },
+    {
+        "name": "Sisyphus Gift",
+        "type": "toggle",
+        "img": "images/npcs/Sisyphus.png",
+        "codes": "SisyphusGift"
+    },
+    {
+        "name": "Thanatos Gift",
+        "type": "toggle",
+        "img": "images/npcs/Thanatos.png",
+        "codes": "ThanatosGift"
+    },
+    {
+        "name": "Eurydice Gift",
+        "type": "toggle",
+        "img": "images/npcs/Eurydice.png",
+        "codes": "EurydiceGift"
+    },
+    {
+        "name": "Patroclus Gift",
+        "type": "toggle",
+        "img": "images/npcs/Patroclus.png",
+        "codes": "PatroclusGift"
+    },
+    {
+        "name": "Persephone Gift",
+        "type": "toggle",
+        "img": "images/npcs/Persephone.png",
+        "codes": "PersephoneGift"
+    }
+]

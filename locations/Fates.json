@@ -1,0 +1,165 @@
+
+[
+    {
+        "name": "Fates",
+        "children": [
+            {
+                "name": "Fates",
+                "access_rules": [""],
+                "sections": [					
+				{
+					"name": "IsThereNoEscape?",
+					"item_count": 1
+				},
+				{
+					"name": "DistantRelatives",
+					"item_count": 1
+				},
+				{
+					"name": "ChthonicColleagues",
+					"item_count": 1
+				},
+				{
+					"name": "TheReluctantMusician",
+					"item_count": 1
+				},
+				{
+					"name": "GoddessOfWisdom",
+					"item_count": 1
+				},
+				{
+					"name": "GodOfTheHeavens",
+					"item_count": 1
+				},
+				{
+					"name": "GodOfTheSea",
+					"item_count": 1
+				},
+				{
+					"name": "GoddessOfLove",
+					"item_count": 1
+				},
+				{
+					"name": "GodOfWar",
+					"item_count": 1
+				},
+				{
+					"name": "GoddessOfTheHunt",
+					"item_count": 1
+				},
+				{
+					"name": "GodOfWine",
+					"item_count": 1
+				},
+				{
+					"name": "GodOfSwiftness",
+					"item_count": 1
+				},
+				{
+					"name": "GoddessOfSeasons",
+					"item_count": 1
+				},
+				{
+					"name": "PowerWithoutEqual",
+					"item_count": 1
+				},
+				{
+					"name": "DivinePairings",
+					"item_count": 1
+				},
+				{
+					"name": "PrimordialBoons",
+					"item_count": 1
+				},
+				{
+					"name": "PrimordialBanes",
+					"item_count": 1
+				},
+				{
+					"name": "InfernalArms",
+					"item_count": 1
+				},
+				{
+					"name": "TheStygianBlade",
+					"item_count": 1
+				},
+				{
+					"name": "TheHeartSeekingBow",
+					"item_count": 1
+				},
+				{
+					"name": "TheShieldOfChaos",
+					"item_count": 1
+				},
+				{
+					"name": "TheEternalSpear",
+					"item_count": 1
+				},
+				{
+					"name": "TheTwinFists",
+					"item_count": 1
+				},
+				{
+					"name": "TheAdamantRail",
+					"item_count": 1
+				},
+				{
+					"name": "MasterOfArms",
+					"item_count": 1
+				},
+				{
+					"name": "AViolentPast",
+					"item_count": 1
+				},
+				{
+					"name": "HarshConditions",
+					"item_count": 1
+				},
+				{
+					"name": "SlashedBenefits",
+					"item_count": 1
+				},
+				{
+					"name": "WantonRansacking",
+					"item_count": 1
+				},
+				{
+					"name": "ASimpleJob",
+					"item_count": 1
+				},
+				{
+					"name": "ChthonicKnowledge",
+					"item_count": 1
+				},
+				{
+					"name": "CustomerLoyalty",
+					"item_count": 1
+				},
+				{
+					"name": "DarkReflections",
+					"item_count": 1
+				},
+				{
+					"name": "CloseAtHeart",
+					"item_count": 1
+				},
+				{
+					"name": "DenizensOfTheDeep",
+					"item_count": 1
+				},
+				{
+					"name": "TheUselessTrinket",
+					"item_count": 1
+				}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Fates",
+                        "x": 200,
+                        "y": 200
+                    }
+                ]
+            }        
+        ]
+    }
+]

@@ -1,0 +1,441 @@
+
+[
+    {
+        "name": "Elysium",
+        "children": [
+            {
+                "name": "Elysium Fist",
+                "access_rules": [""],
+                "sections": [
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 500,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Elysium Sword",
+                "access_rules": [""],
+                "sections": [
+                    
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 300,
+                        "y": 50
+                    }
+                ]
+            }, 
+            {
+                "name": "Elysium Gun",
+                "access_rules": [""],
+                "sections": [
+                    
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 500,
+                        "y": 250
+                    }
+                ]
+            }, 
+            {
+                "name": "Elysium Spear",
+                "access_rules": [""],
+                "sections": [
+                    
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 300,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Elysium Bow",
+                "access_rules": [""],
+                "sections": [
+                    
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 300,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Elysium Shield",
+                "access_rules": [""],
+                "sections": [
+					
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 500,
+                        "y": 50
+                    }
+                ]
+            },
+            {
+                "name": "Elysium",
+                "access_rules": [""],
+                "sections": [
+                    
+					{
+						"name": "Room 25",
+						"item_count": 1
+					},
+					{
+						"name": "Room 26",
+						"item_count": 1
+					},
+					{
+						"name": "Room 27",
+						"item_count": 1
+					},
+					{
+						"name": "Room 28",
+						"item_count": 1
+					},
+					{
+						"name": "Room 29",
+						"item_count": 1
+					},
+					{
+						"name": "Room 30",
+						"item_count": 1
+					},
+					{
+						"name": "Room 31",
+						"item_count": 1
+					},
+					{
+						"name": "Room 32",
+						"item_count": 1
+					},
+					{
+						"name": "Room 33",
+						"item_count": 1
+					},
+					{
+						"name": "Room 34",
+						"item_count": 1
+					},
+					{
+						"name": "Room 35",
+						"item_count": 1
+					},
+					{
+						"name": "Room 36",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Elysium",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            }        
+        ]
+    }
+]

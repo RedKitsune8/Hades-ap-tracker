@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Old Spiked Collar",
+        "type": "toggle",
+        "img": "images/items/Old_Spiked_Collar.png",
+        "codes": "CerberusKeepsake"
+    },
+    {
+        "name": "Adamant Arrowhead",
+        "type": "toggle",
+        "img": "images/items/Adamant_Arrowhead.png",
+        "codes": "ArtemisKeepsake"
+    },
+    {
+        "name": "Black_Shawl",
+        "type": "toggle",
+        "img": "images/items/Black_Shawl.png",
+        "codes": "NyxKeepsake"
+    },
+    {
+        "name": "Blood-Filled_Vial",
+        "type": "toggle",
+        "img": "images/items/Blood-Filled_Vial.png",
+        "codes": "AresKeepsake"
+    },
+    {
+        "name": "Bone_Hourglass",
+        "type": "toggle",
+        "img": "images/items/Bone_Hourglass.png",
+        "codes": "CharonKeepsake"
+    },
+    {
+        "name": "Broken_Spearpoint",
+        "type": "toggle",
+        "img": "images/items/Broken_Spearpoint.png",
+        "codes": "PatroclusKeepsake"
+    },
+    {
+        "name": "Chthonic_Coin_Purse",
+        "type": "toggle",
+        "img": "images/items/Chthonic_Coin_Purse.png",
+        "codes": "HypnosKeepsake"
+    },
+    {
+        "name": "Conch_Shell",
+        "type": "toggle",
+        "img": "images/items/Conch_Shell.png",
+        "codes": "PoseidonKeepsake"
+    },
+    {
+        "name": "Cosmic_Egg",
+        "type": "toggle",
+        "img": "images/items/Cosmic_Egg.png",
+        "codes": "ChaosKeepsake"
+    },
+    {
+        "name": "Distant_Memory",
+        "type": "toggle",
+        "img": "images/items/Distant_Memory.png",
+        "codes": "OrpheusKeepsake"
+    },
+    {
+        "name": "Eternal_Rose",
+        "type": "toggle",
+        "img": "images/items/Eternal_Rose.png",
+        "codes": "AphroditeKeepsake"
+    },
+    {
+        "name": "Evergreen_Acorn",
+        "type": "toggle",
+        "img": "images/items/Evergreen_Acorn.png",
+        "codes": "EurydiceKeepsake"
+    },
+    {
+        "name": "Frostbitten_Horn",
+        "type": "toggle",
+        "img": "images/items/Frostbitten_Horn.png",
+        "codes": "DemeterKeepsake"
+    },
+    {
+        "name": "Harpy_Feather_Duster",
+        "type": "toggle",
+        "img": "images/items/Harpy_Feather_Duster.png",
+        "codes": "DusaKeepsake"
+    },
+    {
+        "name": "Lambent_Plume",
+        "type": "toggle",
+        "img": "images/items/Lambent_Plume.png",
+        "codes": "HermesKeepsake"
+    },
+    {
+        "name": "Lucky_Tooth",
+        "type": "toggle",
+        "img": "images/items/Lucky_Tooth.png",
+        "codes": "SkellyKeepsake"
+    },
+    {
+        "name": "Myrmidon_Bracer",
+        "type": "toggle",
+        "img": "images/items/Myrmidon_Bracer.png",
+        "codes": "AchillesKeepsake"
+    },
+    {
+        "name": "Overflowing_Cup",
+        "type": "toggle",
+        "img": "images/items/Overflowing_Cup.png",
+        "codes": "DionysusKeepsake"
+    },
+    {
+        "name": "Owl_Pendant",
+        "type": "toggle",
+        "img": "images/items/Owl_Pendant.png",
+        "codes": "AthenaKeepsake"
+    },
+    {
+        "name": "Pierced_Butterfly",
+        "type": "toggle",
+        "img": "images/items/Pierced_Butterfly.png",
+        "codes": "ThanatosKeepsake"
+    },
+    {
+        "name": "Pom_Blossom",
+        "type": "toggle",
+        "img": "images/items/Pom_Blossom.png",
+        "codes": "PersephoneKeepsake"
+    },
+    {
+        "name": "Shattered_Shackle",
+        "type": "toggle",
+        "img": "images/items/Shattered_Shackle.png",
+        "codes": "SisyphusKeepsake"
+    },
+    {
+        "name": "Sigil_of_the_Dead",
+        "type": "toggle",
+        "img": "images/items/Sigil_of_the_Dead.png",
+        "codes": "HadesKeepsake"
+    },
+    {
+        "name": "Skull_Earring",
+        "type": "toggle",
+        "img": "images/items/Skull_Earring.png",
+        "codes": "MegaeraKeepsake"
+    },
+    {
+        "name": "Thunder_Signet",
+        "type": "toggle",
+        "img": "images/items/Thunder_Signet.png",
+        "codes": "ZeusKeepsake"
+    }
+]

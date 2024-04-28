@@ -1,0 +1,44 @@
+[
+    {
+    "name": "LogicMap",
+    "location_size": 24,
+    "location_border_thickness": 4,
+    "img": "images/maps/LogicMap.png"
+    },
+    {
+        "name": "Tartarus",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Tartarus.png"
+    },
+    {
+        "name": "Asphodel",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Asphodel.png"
+    },
+    {
+        "name": "Elysium",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Elysium.png"
+    },
+    {
+        "name": "Styx",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/TempleStyx.png"
+    },
+    {
+        "name": "Store",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/House_Contractor.png"
+    },
+    {
+        "name": "Fates",
+        "location_size": 48,
+        "location_border_thickness": 4,
+        "img": "images/maps/Fates.png"
+    }
+]

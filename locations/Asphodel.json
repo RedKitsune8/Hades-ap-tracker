@@ -1,0 +1,378 @@
+
+[
+    {
+        "name": "Asphodel",
+		"access_rules": ["$checkAsphodel"],
+        "children": [
+            {
+                "name": "Asphodel Fist",
+                "sections": [
+					{
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 400,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Asphodel Sword",
+                "access_rules": ["$checkAsphodel"],
+                "sections": [
+                    {
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 200,
+                        "y": 50
+                    }
+                ]
+            }, 
+            {
+                "name": "Asphodel Gun",
+                "access_rules": ["$checkAsphodel"],
+                "sections": [
+                    {
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}	
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 400,
+                        "y": 250
+                    }
+                ]
+            }, 
+            {
+                "name": "Asphodel Spear",
+                "access_rules": ["$checkAsphodel"],
+                "sections": [
+                    {
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 200,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Asphodel Bow",
+                "access_rules": ["$checkAsphodel"],
+                "sections": [
+                    {
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 200,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Asphodel Shield",
+                "access_rules": ["$checkAsphodel"],
+                "sections": [
+                    {
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 400,
+                        "y": 50
+                    }
+                ]
+            } ,
+            {
+                "name": "Asphodel",
+                "sections": [
+                    {
+						"name": "Room 15",
+						"item_count": 1
+					},
+					{
+						"name": "Room 16",
+						"item_count": 1
+					},
+					{
+						"name": "Room 17",
+						"item_count": 1
+					},
+					{
+						"name": "Room 18",
+						"item_count": 1
+					},
+					{
+						"name": "Room 19",
+						"item_count": 1
+					},
+					{
+						"name": "Room 20",
+						"item_count": 1
+					},
+					{
+						"name": "Room 21",
+						"item_count": 1
+					},
+					{
+						"name": "Room 22",
+						"item_count": 1
+					},
+					{
+						"name": "Room 23",
+						"item_count": 1
+					},
+					{
+						"name": "Room 24",
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Asphodel",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            }        
+        ]
+    }
+]

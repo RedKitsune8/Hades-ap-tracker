@@ -1,0 +1,1107 @@
+
+[
+    {
+        "name": "Styx",
+        "children": [
+            {
+                "name": "Styx Fist",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 500,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Styx Sword",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                }  
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 300,
+                        "y": 50
+                    }
+                ]
+            }, 
+            {
+                "name": "Styx Gun",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                } 
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 500,
+                        "y": 250
+                    }
+                ]
+            }, 
+            {
+                "name": "Styx Spear",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                }  
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 300,
+                        "y": 250
+                    }
+                ]
+            },
+            {
+                "name": "Styx Bow",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 300,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Styx Shield",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 500,
+                        "y": 50
+                    }
+                ]
+            } ,
+            {
+                "name": "Styx",
+                "access_rules": [""],
+                "sections": [
+                {
+                    "name": "Room 37",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 38",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 39",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 40",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 41",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 42",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 43",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 44",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 45",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 46",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 47",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 48",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 49",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 50",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 51",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 52",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 53",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 54",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 55",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 56",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 57",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 58",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 59",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 60",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 61",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 62",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 63",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 64",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 65",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 66",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 67",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 68",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 69",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 70",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 71",
+                    "item_count": 1
+                },
+                {
+                    "name": "Room 72",
+                    "item_count": 1
+                }					
+                ],
+                "map_locations": [
+                    {
+                        "map": "Styx",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            }         
+        ]
+    }
+]

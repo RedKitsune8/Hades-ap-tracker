@@ -1,0 +1,25 @@
+
+[
+    {
+        "name": "Score",
+        "children": [
+            {
+                "name": "ClearScore",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "ClearScore",
+                        "item_count": 999
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Score",
+                        "x": 100,
+                        "y": 100
+                    }
+                ]
+            }        
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Sword",
+        "type": "toggle",
+        "img": "images/items/Zagreus_Aspect_Sword.png",
+        "codes": "SwordWeaponUnlockItem"
+    },
+    {
+        "name": "Hidden Sword",
+        "type": "toggle",
+        "img": "images/items/Arthur_Aspect_Sword.png",
+        "codes": "SwordHiddenAspect"
+    },
+    {
+        "name": "Bow",
+        "type": "toggle",
+        "img": "images/items/Zagreus_Aspect_Bow.png",
+        "codes": "BowWeaponUnlockItem"
+    },
+    {
+        "name": "Hidden Bow",
+        "type": "toggle",
+        "img": "images/items/Rama_Aspect_Bow.png",
+        "codes": "BowHiddenAspect"
+
+    },
+    {
+        "name": "Spear",
+        "type": "toggle",
+        "img": "images/items/Zagreus_Aspect_Spear.png",
+        "codes": "SpearWeaponUnlockItem"
+    },
+    {
+        "name": "Hidden Spear",
+        "type": "toggle",
+        "img": "images/items/Guan_Yu_Aspect_Spear.png",
+        "codes": "SpearHiddenAspect"
+    },
+    {
+        "name": "Shield",
+        "type": "toggle",
+        "img": "images/items/Zagreus_Aspect_Shield.png",
+        "codes": "ShieldWeaponUnlockItem"    
+    },
+    {   
+        "name": "Hidden Shield",
+        "type": "toggle",
+        "img": "images/items/Beowulf_Aspect_Shield.png",
+        "codes": "ShieldHiddenAspect"
+    },
+    {
+        "name": "Fist",
+        "type": "toggle",
+        "img": "images/items/Zagreus_Aspect_Fists.png",
+        "codes": "FistWeaponUnlockItem"
+    },
+    {
+        "name": "Hidden Fist",
+        "type": "toggle",
+        "img": "images/items/Gilgamesh_Aspect_Fists.png",
+        "codes": "FistHiddenAspect"
+    },
+    {
+        "name": "Gun",
+        "type": "toggle",
+        "img": "images/items/Zagreus_Aspect_Rail.png",
+        "codes": "GunWeaponUnlockItem"
+    },
+    {
+        "name": "Hidden Gun",
+        "type": "toggle",
+        "img": "images/items/Aspect_of_Lucifer.png",
+        "codes": "GunHiddenAspect"
+    }
+]

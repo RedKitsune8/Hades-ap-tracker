@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Fountain Unlock",
+        "type": "toggle",
+        "img": "images/items/Blueprint.png",
+        "codes": "FountainUpgrade1Item"
+    },
+    {
+        "name": "Fountain Upgrade",
+        "type": "toggle",
+        "img": "images/items/Blueprint.png",
+        "codes": "FountainUpgrade2Item"
+    },
+    {
+        "name": "Fountain Tartarous",
+        "type": "toggle",
+        "img": "images/items/Blueprint.png",
+        "codes": "FountainTartarusItem"
+    },
+    {
+        "name": "Fountain Asphodel",
+        "type": "toggle",
+        "img": "images/items/Blueprint.png",
+        "codes": "FountainAsphodelItem"
+    },
+    {
+        "name": "Fountain Elysium",
+        "type": "toggle",
+        "img": "images/items/Blueprint.png",
+        "codes": "FountainElysiumItem"
+    },
+    {
+        "name": "Urns 1",
+        "type": "toggle",
+        "img": "images/items/UrnsLesserValue.png",
+        "codes": "UrnsOfWealth1Item"
+    },
+    {
+        "name": "Urns 2",
+        "type": "toggle",
+        "img": "images/items/UrnsLesserValue.png",
+        "codes": "UrnsOfWealth2Item"
+    },
+    {
+        "name": "Urns 3",
+        "type": "toggle",
+        "img": "images/items/UrnsLesserValue.png",
+        "codes": "UrnsOfWealth3Item"
+    },
+    {
+        "name": "Trove 1",
+        "type": "toggle",
+        "img": "images/items/LesserPlunder.png",
+        "codes": "InfernalThrove1Item"
+    },
+    {
+        "name": "Trove 2",
+        "type": "toggle",
+        "img": "images/items/LesserPlunder.png",
+        "codes": "InfernalThrove2Item"
+    },
+    {
+        "name": "Trove 3",
+        "type": "toggle",
+        "img": "images/items/LesserPlunder.png",
+        "codes": "InfernalThrove3Item"
+    },
+    {
+        "name": "Inter Region Collection Change",
+        "type": "toggle",
+        "img": "images/items/Inter-Region_Collection.png",
+        "codes": "KeepsakeCollectionItem"
+    },
+    {
+        "name": "Deluxe Contractors",
+        "type": "toggle",
+        "img": "images/items/FatedListIcon.png",
+        "codes": "DeluxeContractorDeskItem"
+    },
+    {
+        "name": "Bonus Gemstones",
+        "type": "toggle",
+        "img": "images/items/BrilliantGemstones.png",
+        "codes": "VanquishersKeepItem"
+    },
+    {
+        "name": "Keys for re-roll",
+        "type": "toggle",
+        "img": "images/items/FatedKeys.png",
+        "codes": "FatedKeysItem"
+    },
+    {
+        "name": "Fishing Rod",
+        "type": "toggle",
+        "img": "images/items/RodofFishing.png",
+        "codes": "FishingRodItem"
+    },
+    {
+        "name": "Court Musician Sentence",
+        "type": "toggle",
+        "img": "images/items/SealedDocumentOrpheus.png",
+        "codes": "CourtMusicianSentenceItem"
+    },
+    {
+        "name": "Court Musician Stand",
+        "type": "toggle",
+        "img": "images/items/MusicStand.png",
+        "codes": "CourtMusicianStandItem"
+    },
+    {
+        "name": "Darkness for Live",
+        "type": "toggle",
+        "img": "images/items/PitchBlackDarkness.png",
+        "codes": "PitchBlackDarknessItem"
+    },
+    {
+        "name": "Gemstones for Money",
+        "type": "toggle",
+        "img": "images/items/BrilliantGemstones.png",
+        "codes": "BrilliantGemstonesItem"
+    },
+    {
+        "name": "Nectar boost Boon",
+        "type": "toggle",
+        "img": "images/items/VintageNectar.png",
+        "codes": "VintageNectarItem"
+    },
+    {
+        "name": "Dark Thirst extra Gems",
+        "type": "toggle",
+        "img": "images/items/PitchBlackDarkness.png",
+        "codes": "DarkerThirstItem"
+    }
+]

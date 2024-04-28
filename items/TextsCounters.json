@@ -1,0 +1,223 @@
+[    
+    {
+    "name": "TartarusSword",
+    "type": "consumable",
+    "max_quantity": 14,
+    "img": "images/texts/Tartarus.png",
+    "codes": "TartarusSword"
+    },
+    {
+    "name": "AsphodelSword",
+    "max_quantity": 10,
+    "type": "consumable",
+    "img": "images/texts/Asphodel.png",
+    "codes": "AsphodelSword"
+    },
+    {
+    "name": "ElysiumSword",
+    "type": "consumable",
+    "max_quantity": 12,
+    "img": "images/texts/Elysium.png",
+    "codes": "ElysiumSword"
+    },
+    {
+    "name": "StyxSword",
+    "type": "consumable",
+    "max_quantity": 36,
+    "img": "images/texts/Styx.png",
+    "codes": "StyxSword"
+    },
+    {
+        "name": "TartarusBow",
+        "max_quantity": 14,
+        "type": "consumable",
+        "img": "images/texts/Tartarus.png",
+        "codes": "TartarusBow"
+    },
+    {
+        "name": "AsphodelBow",
+        "type": "consumable",
+        "max_quantity": 10,
+        "img": "images/texts/Asphodel.png",
+        "codes": "AsphodelBow"
+    },
+    {
+        "name": "ElysiumBow",
+        "type": "consumable",
+        "max_quantity": 12,
+        "img": "images/texts/Elysium.png",
+        "codes": "ElysiumBow"
+    },
+    {
+        "name": "StyxBow",
+        "type": "consumable",
+        "max_quantity": 36,
+        "img": "images/texts/Styx.png",
+        "codes": "StyxBow"
+    },
+    {
+        "name": "TartarusSpear",
+        "max_quantity": 14,
+        "type": "consumable",
+        "img": "images/texts/Tartarus.png",
+        "codes": "TartarusSpear"
+    },
+    {
+        "name": "AsphodelSpear",
+        "type": "consumable",
+        "max_quantity": 10,
+        "img": "images/texts/Asphodel.png",
+        "codes": "AsphodelSpear"
+    },
+    {
+        "name": "ElysiumSpear",
+        "type": "consumable",
+        "max_quantity": 12,
+        "img": "images/texts/Elysium.png",
+        "codes": "ElysiumSpear"
+    },
+    {
+        "name": "StyxSpear",
+        "type": "consumable",
+        "max_quantity": 36,
+        "img": "images/texts/Styx.png",
+        "codes": "StyxSpear"
+    },
+    {
+        "name": "TartarusShield",
+        "type": "consumable",
+        "max_quantity": 14,
+        "img": "images/texts/Tartarus.png",
+        "codes": "TartarusShield"
+    },
+    {
+        "name": "AsphodelShield",
+        "type": "consumable",
+        "max_quantity": 10,
+        "img": "images/texts/Asphodel.png",
+        "codes": "AsphodelShield"
+    },
+    {
+        "name": "ElysiumShield",
+        "type": "consumable",
+        "max_quantity": 12,
+        "img": "images/texts/Elysium.png",
+        "codes": "ElysiumShield"
+    },
+    {
+        "name": "StyxShield",
+        "type": "consumable",
+        "max_quantity": 36,
+        "img": "images/texts/Styx.png",
+        "codes": "StyxShield"
+    },
+    {
+        "name": "TartarusFist",
+        "max_quantity": 14,
+        "type": "consumable",
+        "img": "images/texts/Tartarus.png",
+        "codes": "TartarusFist"
+    },
+    {
+        "name": "AsphodelFist",
+        "type": "consumable",
+        "max_quantity": 10,
+        "img": "images/texts/Asphodel.png",
+        "codes": "AsphodelFist"
+    },
+    {
+        "name": "ElysiumFist",
+        "type": "consumable",
+        "max_quantity": 12,
+        "img": "images/texts/Elysium.png",
+        "codes": "ElysiumFist"
+    },
+    {
+        "name": "StyxFist",
+        "type": "consumable",
+        "max_quantity": 36,
+        "img": "images/texts/Styx.png",
+        "codes": "StyxFist"
+    },
+    {
+        "name": "TartarusGun",
+        "max_quantity": 14,
+        "type": "consumable",
+        "img": "images/texts/Tartarus.png",
+        "codes": "TartarusGun"
+    },
+    {
+        "name": "AsphodelGun",
+        "type": "consumable",
+        "max_quantity": 10,
+        "img": "images/texts/Asphodel.png",
+        "codes": "AsphodelGun"
+    },
+    {
+        "name": "ElysiumGun",
+        "type": "consumable",
+        "max_quantity": 12,
+        "img": "images/texts/Elysium.png",
+        "codes": "ElysiumGun"
+    },
+    {
+        "name": "StyxGun",
+        "type": "consumable",
+        "max_quantity": 36,
+        "img": "images/texts/Styx.png",
+        "codes": "StyxGun"
+    },
+    {
+        "name": "Tartarus Any weapon",
+        "max_quantity": 14,
+        "type": "consumable",
+        "img": "images/texts/Tartarus.png",
+        "codes": "TartarusAny"
+    },
+    {
+        "name": "Asphodel Any weapon",
+        "type": "consumable",
+        "max_quantity": 10,
+        "img": "images/texts/Asphodel.png",
+        "codes": "AsphodelAny"
+    },
+    {
+        "name": "Elysium Any weapon",
+        "type": "consumable",
+        "max_quantity": 12,
+        "img": "images/texts/Elysium.png",
+        "codes": "ElysiumAny"
+    },
+    {
+        "name": "Styx Any weapon",
+        "type": "consumable",
+        "max_quantity": 36,
+        "img": "images/texts/Styx.png",
+        "codes": "StyxAny"
+    },
+    {
+        "name": "Region Tartarus",
+        "type": "toggle",
+        "initial_active_state": "true",
+        "img": "images/texts/Tartarus.png",
+        "codes": "RegionTartarus"
+    },
+    {
+        "name": "Region Asphodel",
+        "type": "toggle",
+        "img": "images/texts/Asphodel.png",
+        "codes": "RegionAsphodel"
+    },
+    {
+        "name": "Region Elysium",
+        "type": "toggle",
+        "img": "images/texts/Elysium.png",
+        "codes": "RegionElysium"
+    },
+    {
+        "name": "Region Styx",
+        "type": "toggle",
+        "img": "images/texts/Styx.png",
+        "codes": "RegionStyx"
+    }
+]

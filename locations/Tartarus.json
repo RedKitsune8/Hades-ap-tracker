@@ -1,0 +1,477 @@
+
+[
+    {
+        "name": "Tartarus",
+        "children": [
+            {
+                "name": "Tartarus Fist",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 500,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Tartarus Sword",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 300,
+                        "y": 200
+                    }
+                ]
+            }, 
+            {
+                "name": "Tartarus Gun",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 500,
+                        "y": 400
+                    }
+                ]
+            }, 
+            {
+                "name": "Tartarus Spear",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 300,
+                        "y": 400
+                    }
+                ]
+            },
+            {
+                "name": "Tartarus Bow",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 300,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Tartarus Shield",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 500,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Tartarus",
+                "access_rules": [""],
+                "sections": [
+                    {
+                        "name": "Room 01",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 02",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 03",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 04",
+                        "item_count": 1
+                    },{
+                        "name": "Room 05",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 06",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 07",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 08",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 09",
+                        "item_count": 1
+                    },{
+                        "name": "Room 10",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 11",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Room 12",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 13",
+                        "item_count": 1
+                    }, 
+                    {
+                        "name": "Room 14",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tartarus",
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            }         
+        ]
+    }
+]
