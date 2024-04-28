@@ -1,6 +1,6 @@
 # Template Pack for PopTracker
 
-Hades AP tracker, mostly only working for Weapon Rooms for the moment.
+Hades AP tracker, mostly only working for auto-tracker, for manual tracking it needs more work. for the moment.
 
 ## Installation
 
