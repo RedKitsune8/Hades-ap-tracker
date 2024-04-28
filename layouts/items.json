@@ -515,5 +515,29 @@
                 ]
             }
         ]
+    },
+    "scorecount": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,-7",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": "150, 50",
+                        "rows": [
+                            [
+                                "ScoreAny"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 }

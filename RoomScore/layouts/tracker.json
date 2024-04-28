@@ -1,0 +1,94 @@
+﻿{
+    "tracker_default": {
+      "type": "container",
+      "background": "#000000",
+      "content": {
+        "type": "dock",
+        "dropshadow": true,
+        "content": [
+        {
+            "type": "group",
+            "dock": "left",
+            "header": "Area Access",
+            "content": 
+            {
+                "type": "dock",
+                "margin":  "0,0,0,-120",
+                "content": [
+                {
+                "type": "map",
+                "dock": "top",
+                "margin":  "0,0,0,-120",
+                "maps": ["LogicMap"]
+                },
+                {
+                  "type": "group",
+                  "header": "Scores",
+                  "dock": "top",
+                  "content": {
+                      "type": "layout",
+                      "key": "scorecount"
+                  }
+                },
+                {
+                    "type": "group",
+                    "header": "House contractors",
+                    "dock": "left",
+                    "content": {
+                        "type": "layout",
+                        "key": "Store"
+                    }
+                } 
+            ]
+            }
+        },
+        {
+            "type": "group",
+            "header": "Weapons",
+            "dock": "left",
+            "content": {
+                "type": "dock",
+                "content": [
+                    {
+                        "type": "dock",
+                        "dock": "top",
+                        "content": {
+                            "type": "layout",
+                            "key": "weapons"
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Pacts",
+                        "dock": "top",
+                        "content": {
+                            "type": "layout",
+                            "key": "Pacts"
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Keepsakes",
+                        "dock": "top",
+                        "content": {
+                            "type": "layout",
+                            "key": "Keepsakes"
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Gifts",
+                        "dock": "top",
+                        "content": {
+                            "type": "layout",
+                            "key": "Gifts"
+                        }
+                    }
+                ]
+            }
+        }
+        ]
+      }
+    }
+  }
+  

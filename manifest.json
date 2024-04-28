@@ -9,14 +9,20 @@
     "platform": "pc", //enables SNES memory autotracking interface - remove/change if not needed
     "author": "RedKitsune",
     "variants": {
-        "standard": {
-            "display_name": "Locations Tracker",
+        "RoomWeapon": {
+            "display_name": "Room Weapon based",
             "flags": [
                 "ap" //enables AP autotracking interface - remove if not needed
             ]
         },
-        "var_itemsonly": {
-            "display_name": "Items Only",
+        "RoomAny": {
+            "display_name": "Room based",
+            "flags": [
+                "ap" //enables AP autotracking interface - remove if not needed
+            ]
+        },
+        "RoomScore": {
+            "display_name": "Score based",
             "flags": [
                 "ap" //enables AP autotracking interface - remove if not needed
             ]

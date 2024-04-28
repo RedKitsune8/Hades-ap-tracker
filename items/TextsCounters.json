@@ -219,5 +219,12 @@
         "type": "toggle",
         "img": "images/texts/Styx.png",
         "codes": "RegionStyx"
+    },
+    {
+        "name": "Score",
+        "type": "consumable",
+        "max_quantity": 999,
+        "img": "images/texts/Score.png",
+        "codes": "ScoreAny"
     }
 ]
