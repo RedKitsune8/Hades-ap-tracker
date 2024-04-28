@@ -1,8 +1,6 @@
 # Template Pack for PopTracker
 
-This a template tracker package for PopTracker.
-
-Includes examples for AP and SNES memory autotracking and beginner-friendly explanations in the pack.
+Hades AP tracker, mostly only working for Weapon Rooms for the moment.
 
 ## Installation
 
